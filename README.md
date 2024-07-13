@@ -2,6 +2,7 @@
 
 You can run the code in latest matlab version or matlab online.
 
+
 **Analysis of financial statements** 
 
 Data Collection: 
@@ -21,10 +22,12 @@ Return on assets = profit / assets
 Debt Ratio: 
 Debt-equity = debt / assets 
 
-**Digital Signal Processing Data smoothing:** 
+**Digital Signal Processing Data smoothing:**
+
 Use a low-pass Butterworth filter to smooth revenue, cost, and profit data.
 
 **Frequency analysis:**
+
 Use the Fourier transform to analyze the frequency components of financial data and ratios. 
 
 The program uses MATLAB to load and analyze financial data. Financial ratios are calculated using weighted terms. A low-pass filter is applied to smooth the data, and the Fourier transform is calculated to analyze the frequency components. The results are plotted to visualize trends and trends. The program uses a MATLAB code to analyze financial data over a five-year period. The data includes revenues, expenses, assets and liabilities. Economic parameters are calculated for each year, after which a minimum Butterworth filter is applied to smooth the income, cost and profit data and then FFT is calculated for the initially selected financial parameters to find their frequency in the 19th century. Time series plots and frequency spectrum plots are constructed to visualize the results.
